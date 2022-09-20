@@ -1,0 +1,19 @@
+.favourites{
+  background-color: #000000;
+  min-height: 82vh;
+}
+
+.nothingYet{
+  color: 	#A7AC9A;
+}
+
+.buttons{
+  width: 95%;
+  margin: 10px;
+  background-color: #db0000;
+  border: solid 3px #880808;
+  border-radius: 20px;
+  text-align: center;
+  text-decoration: none;
+  color: whitesmoke;
+}

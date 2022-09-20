@@ -1,0 +1,13 @@
+.footer{
+  background-color: #202020;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
+.footer h4{
+  font-size: 20px;
+  color: 	#A7AC9A;
+  text-decoration: none;
+  text-align: center;
+}

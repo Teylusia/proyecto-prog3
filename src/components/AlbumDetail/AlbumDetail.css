@@ -1,0 +1,42 @@
+.detail{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  min-height: 82vh;
+  margin: 25px
+}
+
+.detailImg{
+  margin: 10px;
+  border: 5px solid #880808;
+  border-radius: 20px;
+}
+
+.detailTitle {
+  width: 80%;
+  color: #A7AC9A;
+  background-color: #db0000;
+  border-radius: 20px;
+  text-align: center;
+  list-style-type: none;
+  margin: 10px;
+}
+
+.detailName{
+  width: 100%;
+  color: #A7AC9A;
+  text-align: center;
+}
+
+.detailGenre{
+  width: 100%;
+  color: #A7AC9A;
+  text-align: center;
+}
+
+.detailReleaseDate{
+  width: 100%;
+  color: #A7AC9A;
+  text-align: center;
+}

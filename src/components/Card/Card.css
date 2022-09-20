@@ -1,0 +1,41 @@
+.Card{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  width: 30%;
+  background-color: #303036;
+  margin: 15px;
+  border-radius: 15px;
+}
+
+.cardTitle{
+  color: #A7AC9A;
+  width: 100%;
+  text-align: center;
+  margin: 10px;
+}
+.showDescription{
+  display: block;
+  color: #A7AC9A;
+  width: 100%;
+  margin-left: 20px;
+}
+
+.hideDescription{
+  display: none;
+}
+.buttons{
+  width: 95%;
+  margin: 10px;
+  background-color: #db0000;
+  border: solid 3px #880808;
+  border-radius: 20px;
+  text-align: center;
+  text-decoration: none;
+  color: whitesmoke;
+}
+.cardImage{
+  margin: 10px;
+
+}

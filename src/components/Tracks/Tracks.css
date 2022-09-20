@@ -1,0 +1,25 @@
+.chartSection{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  background-color: #000000;
+}
+.chartSectionTitle{
+  width: 100%;
+  text-align: center;
+  margin: 15px;
+  color: #A7AC9A;
+}
+
+.buttons{
+  width: 95%;
+  margin: 10px;
+  background-color: #db0000;
+  border: solid 3px #880808;
+  border-radius: 20px;
+  text-align: center;
+  text-decoration: none;
+  color: whitesmoke;
+}
